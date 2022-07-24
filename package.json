@@ -235,5 +235,6 @@
   "bin": {
     "any-project-cli": "bin/any-project-cli",
     "any-project-cli-debug": "bin/any-project-cli-debug"
-  }
+  },
+  "lastBuildTagHash": "7cd8c80c1ee980129af9879de9d43ab2208d9be1"
 }
