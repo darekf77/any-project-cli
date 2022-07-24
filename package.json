@@ -1,6 +1,6 @@
 {
   "name": "any-project-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {
     "@angular-devkit/build-angular": "~13.2.5",
     "@angular-devkit/core": "~13.2.6",
@@ -231,5 +231,9 @@
     "watch": "1.0.2",
     "zone.js": "~0.11.4"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "bin": {
+    "any-project-cli": "bin/any-project-cli",
+    "any-project-cli-debug": "bin/any-project-cli-debug"
+  }
 }
