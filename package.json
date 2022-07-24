@@ -1,6 +1,6 @@
 {
   "name": "any-project-cli",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "dependencies": {
     "@angular-devkit/build-angular": "~13.2.5",
     "@angular-devkit/core": "~13.2.6",

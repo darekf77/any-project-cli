@@ -34,21 +34,21 @@ var run;
 if (bundleExist && distExist) {
   if (fs.lstatSync(pathToDistFolder).mtimeMs > fs.lstatSync(pathToBundleFolder).mtimeMs) {
     mode = 'dist';
-    run = require(pathToDistRun.replace(/\.js$/g, '')).run;
+    run = require(pathToDistRun.replace(/\.js$/g, '')).start;
   } else {
     mode = 'bundle';
-    run = require(pathToBundletRun.replace(/\.js$/g, '')).run;
+    run = require(pathToBundletRun.replace(/\.js$/g, '')).start;
   }
 } else {
   if (distExist) {
     mode = 'dist';
-    run = require(pathToDistRun.replace(/\.js$/g, '')).run;
+    run = require(pathToDistRun.replace(/\.js$/g, '')).start;
   } else if (bundleExist) {
     mode = 'bundle';
-    run = require(pathToBundletRun.replace(/\.js$/g, '')).run;
+    run = require(pathToBundletRun.replace(/\.js$/g, '')).start;
   } else {
     mode = 'npm';
-    run = require(pathToIndexRun.replace(/\.js$/g, '')).run;
+    run = require(pathToIndexRun.replace(/\.js$/g, '')).start;
   }
 }
 
