@@ -1,10 +1,7 @@
 {
   "name": "any-project-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
-    "firedev": "^13"
-  },
-  "devDependencies": {
     "@angular-devkit/build-angular": "~13.2.5",
     "@angular-devkit/core": "~13.2.6",
     "@angular/animations": "~13.2.0",
@@ -114,6 +111,7 @@
     "express-session": "1.17.3",
     "fbgraph": "1.4.1",
     "file-loader": "1.1.5",
+    "firedev": "^13",
     "firedev-crud": "~13.0.28",
     "firedev-crud-deamon": "~13.0.19",
     "firedev-ports": "~13.0.22",
@@ -232,5 +230,6 @@
     "vpn-split": "~13.0.19",
     "watch": "1.0.2",
     "zone.js": "~0.11.4"
-  }
+  },
+  "devDependencies": {}
 }
