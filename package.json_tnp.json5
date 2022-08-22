@@ -4,7 +4,7 @@
     linkedFolders: [],
     ignoreDepsPattern: [],
     includeAsDev: [],
-    includeOnly: ["tnp-helpers"],
+    includeOnly: ["tnp-helpers", "incremental-compiler"],
     dependencies: {},
   },
   linkedProjects: [],
