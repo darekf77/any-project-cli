@@ -74,7 +74,7 @@
     "@types/vinyl": "2.0.2",
     "@types/watch": "1.0.0",
     "accepts": "1.3.4",
-    "any-project-cli": "~0.0.11",
+    "any-project-cli": "~13.1.12",
     "axios": "0.17.1",
     "background-worker-process": "~13.0.22",
     "bcryptjs": "2.4.3",
@@ -239,5 +239,5 @@
     "any-project-cli": "bin/any-project-cli",
     "any-project-cli-debug": "bin/any-project-cli-debug"
   },
-  "lastBuildTagHash": "da1c8fb8fa0d3b451987f2499fd7054b5ab49bbe"
+  "lastBuildTagHash": "1f16d754862a61d7a2e9a240804409cc98486866"
 }
