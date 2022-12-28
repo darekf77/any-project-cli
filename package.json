@@ -1,6 +1,4 @@
 {
-  "name": "any-project-cli",
-  "version": "13.1.16",
   "dependencies": {
     "incremental-compiler": "~13.1.8",
     "tnp-helpers": "~13.1.7"
@@ -120,7 +118,7 @@
     "firedev-crud-deamon": "~13.1.25",
     "firedev-ports": "~13.1.29",
     "firedev-storage": "~13.1.20",
-    "firedev-typeorm": "~13.1.6",
+    "firedev-typeorm": "~13.1.7",
     "fkill": "6.1.0",
     "font-awesome": "4.7.0",
     "fs-extra": "8.1.0",
@@ -235,9 +233,6 @@
     "watch": "1.0.2",
     "zone.js": "~0.11.4"
   },
-  "bin": {
-    "any-project-cli": "bin/any-project-cli",
-    "any-project-cli-debug": "bin/any-project-cli-debug"
-  },
-  "lastBuildTagHash": "d3b04798896d954b993073015620a4bc6145bf00"
+  "name": "any-project-cli",
+  "version": "13.1.16"
 }
