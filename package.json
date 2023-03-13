@@ -72,7 +72,7 @@
     "@types/vinyl": "2.0.2",
     "@types/watch": "1.0.0",
     "accepts": "1.3.4",
-    "any-project-cli": "~13.1.18",
+    "any-project-cli": "~13.1.19",
     "axios": "0.17.1",
     "background-worker-process": "~13.1.33",
     "bcryptjs": "2.4.3",
@@ -236,5 +236,5 @@
   },
   "name": "any-project-cli",
   "version": "13.1.19",
-  "lastBuildTagHash": "d5f4a814d0f9578635a9f9f5e404d621d8597efc"
+  "lastBuildTagHash": "a2515e2415f1afd91b412370e4fc5e9bef9a2e24"
 }
