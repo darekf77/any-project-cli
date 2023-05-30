@@ -7,6 +7,7 @@
     includeAsDev: [],
     includeOnly: ["tnp-helpers", "incremental-compiler"],
     dependencies: {},
+    npmFixes: [],
   },
 
   linkedProjects: [],
