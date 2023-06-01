@@ -74,7 +74,7 @@
     "@types/watch": "1.0.0",
     "accepts": "1.3.4",
     "angular-material-css-vars": "5.0.0",
-    "any-project-cli": "~13.1.26",
+    "any-project-cli": "~13.1.27",
     "axios": "1.3.5",
     "background-worker-process": "~13.1.44",
     "base32": "0.0.7",
@@ -245,5 +245,5 @@
   },
   "name": "any-project-cli",
   "version": "13.1.27",
-  "lastBuildTagHash": "5b5b8158498c8b5dbff19ae77ca0e6a2766e9170"
+  "lastBuildTagHash": "6cb2c1824e5fbc0a8b4e0d6d49c497c9ea41740e"
 }
