@@ -1,4 +1,35 @@
 {
+  "tnp": {
+    "resources": [],
+    "overrided": {
+      "linkedFolders": [],
+      "ignoreDepsPattern": [],
+      "includeAsDev": [],
+      "includeOnly": [
+        "tnp-helpers",
+        "incremental-compiler"
+      ],
+      "dependencies": {},
+      "npmFixes": []
+    },
+    "linkedProjects": [],
+    "smartContainerBuildTarget": "",
+    "linkedRepos": [],
+    "libReleaseOptions": {
+      "nodts": false,
+      "obscure": false,
+      "ugly": false,
+      "includeNodeModules": false
+    },
+    "smartContainerTarget": "",
+    "type": "isomorphic-lib",
+    "version": "v4",
+    "isCoreProject": false,
+    "isGenerated": false,
+    "useFramework": false,
+    "required": [],
+    "requiredServers": []
+  },
   "dependencies": {
     "incremental-compiler": "~16.0.29",
     "tnp-helpers": "~16.0.4"
