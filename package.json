@@ -115,7 +115,7 @@
     "angular-material-css-vars": "5.0.2",
     "angular-resize-event": "3.2.0",
     "animate.css": "4.1.1 ",
-    "any-project-cli": "~16.5.4",
+    "any-project-cli": "~16.5.5",
     "axios": "1.3.5",
     "background-worker-process": "~16.5.5",
     "base32": "0.0.7",
@@ -312,5 +312,5 @@
   },
   "name": "any-project-cli",
   "version": "16.5.5",
-  "lastBuildTagHash": "ca20cbd3864811122be62a98fcaad3cdebcd3cda"
+  "lastBuildTagHash": "7899eaa68db370c85e8fbe045e38e0ff9a9bb060"
 }
