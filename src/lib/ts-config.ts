@@ -1,4 +1,4 @@
-import { Project } from 'tnp-helpers';
+import { BaseProject as Project } from 'tnp-helpers';
 
 
 export class TsConfig {

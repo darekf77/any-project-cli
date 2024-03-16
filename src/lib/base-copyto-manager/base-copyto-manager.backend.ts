@@ -1,5 +1,5 @@
 import { IncCompiler } from 'incremental-compiler';
-import { Project } from 'tnp-helpers';
+import { BaseProject as Project } from 'tnp-helpers';
 import {
   BaseCopytoManagerOptions,
   ProjectOrPlace
