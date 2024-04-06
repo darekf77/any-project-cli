@@ -22,7 +22,8 @@
       "includeNodeModules": false,
       "cliBuildNoDts": false,
       "cliBuildObscure": false,
-      "cliBuildIncludeNodeModules": false
+      "cliBuildIncludeNodeModules": false,
+      "cliBuildUglify": false
     },
     "smartContainerTarget": "",
     "type": "isomorphic-lib",
@@ -315,5 +316,6 @@
   },
   "name": "any-project-cli",
   "version": "16.5.22",
-  "lastBuildTagHash": "f3a702f998f4648fd09c05d43d5330ef8a6c1788"
+  "lastBuildTagHash": "f3a702f998f4648fd09c05d43d5330ef8a6c1788",
+  "main": "dist/app.electron.js"
 }
