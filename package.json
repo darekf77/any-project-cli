@@ -34,8 +34,8 @@
     "requiredServers": []
   },
   "dependencies": {
-    "incremental-compiler": "16.100.5",
-    "tnp-helpers": "16.100.5"
+    "incremental-compiler": "16.100.6",
+    "tnp-helpers": "16.100.6"
   },
   "devDependencies": {
     "@angular-builders/custom-webpack": "~16.0.2-beta.2",
@@ -118,7 +118,7 @@
     "angular-material-css-vars": "5.0.2",
     "angular-resize-event": "3.2.0",
     "animate.css": "4.1.1 ",
-    "any-project-cli": "16.100.5",
+    "any-project-cli": "16.100.6",
     "axios": "1.3.5",
     "background-worker-process": "16.100.4",
     "base32": "0.0.7",
@@ -168,9 +168,9 @@
     "file-saver": "2.0.5",
     "file-type": "18.5.0",
     "firedev": "^16",
-    "firedev-crud": "16.100.4",
+    "firedev-crud": "16.100.5",
     "firedev-crud-deamon": "16.100.4",
-    "firedev-ports": "16.100.4",
+    "firedev-ports": "16.100.5",
     "firedev-storage": "16.100.3",
     "firedev-type-sql": "16.100.3",
     "firedev-typeorm": "16.100.3",
@@ -207,7 +207,7 @@
     "jscodeshift": "0.6.3",
     "json-stringify-safe": "5.0.1",
     "json10": "16.100.3",
-    "json10-writer": "16.100.5",
+    "json10-writer": "16.100.6",
     "json5": "2.2.1",
     "json5-writer": "0.2.0",
     "jszip": "3.10.1",
@@ -230,7 +230,7 @@
     "ng-lock": "16.0.1",
     "ng-packagr": "16.0.1",
     "ng-talkback": "16.100.3",
-    "ng2-logger": "16.100.5",
+    "ng2-logger": "16.100.6",
     "ng2-pdfjs-viewer": "16.0.4",
     "ng2-rest": "16.100.3",
     "ngx-ace-wrapper": "14.0.0",
@@ -293,10 +293,10 @@
     "task.js": "0.1.5",
     "threads": "1.7.0",
     "tnp-cli": "16.100.3",
-    "tnp-config": "16.100.5",
-    "tnp-core": "16.100.15",
+    "tnp-config": "16.100.6",
+    "tnp-core": "16.100.16",
     "tnp-db": "16.100.4",
-    "tnp-models": "16.100.5",
+    "tnp-models": "16.100.6",
     "ts-debug": "1.3.0",
     "ts-json-schema-generator": "2.1.1",
     "ts-loader": "2.3.1",
@@ -305,7 +305,7 @@
     "tslint": "5.9.1",
     "turndown": "7.1.2",
     "typescript": "~5.0.2",
-    "typescript-class-helpers": "~16.100.5",
+    "typescript-class-helpers": "~16.100.6",
     "typescript-formatter": "~7.2.2",
     "underscore": "1.9.1",
     "uuid": "8.3.2",
@@ -320,7 +320,7 @@
     "zone.js": "~0.13.0"
   },
   "name": "any-project-cli",
-  "version": "16.100.5",
-  "lastBuildTagHash": "a811ca674a1006cf4de7a0e74963e7147118423e",
+  "version": "16.100.6",
+  "lastBuildTagHash": "614fb7594f2757859aa775eb5008c511a9654823",
   "main": "dist/app.electron.js"
 }
