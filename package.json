@@ -337,7 +337,7 @@
     "zone.js": "~0.13.0"
   },
   "name": "any-project-cli",
-  "version": "16.444.9",
+  "version": "16.444.10",
   "lastBuildTagHash": "80645f9b81c378bcd1b3c94a7cc4fc0d976959a2",
   "main": "dist/app.electron.js"
 }
